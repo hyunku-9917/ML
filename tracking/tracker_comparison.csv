@@ -1,0 +1,4 @@
+﻿tracker,frames,unique_ids,fps_processed,탐지 박스(conf≥0.25),추적 박스,추적률,프레임당 최대 객체
+bytetrack.yaml,150,5,37.7,489,493,1.008,4
+botsort.yaml,150,5,27.4,489,495,1.012,4
+tracktrack.yaml,150,3,26.0,489,441,0.902,3
